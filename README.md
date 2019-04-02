@@ -1,2 +1,2 @@
 # CoDA-wKMR
-Weighted Kernel machine regression for microbiome compositional data analysis
+Weighted Kernel machine regression for compositional data analysis
