@@ -1,2 +1,2 @@
-# MiRKAT-CoDA
-Microbiome Kernel machine regression adapted to compositional data analysis (CoDA)
+# CoDA-wKMR
+Weighted Kernel machine regression for microbiome compositional data analysis
